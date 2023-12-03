@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "item": "ae2:certus_quartz_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "ae2:certus_crystal_seed"
+      }
+    ]
+  }

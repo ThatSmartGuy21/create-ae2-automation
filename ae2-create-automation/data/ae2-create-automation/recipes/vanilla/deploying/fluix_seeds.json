@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "item": "ae2:fluix_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "ae2:fluix_crystal_seed"
+      }
+    ]
+  }
